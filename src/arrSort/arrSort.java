@@ -7,7 +7,7 @@ public class arrSort {
 		testArrSort();
 	}
 
-	//使用冒泡对数值进行降序
+	//使用冒泡对数值进行降序  
 	private static void testArrSort() {
 		// TODO Auto-generated method stub
 		int[] arr = { 56, 91, 65, 2, 14 };
